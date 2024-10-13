@@ -1,4 +1,4 @@
-# POKEDEX_MapaDevWeek
- Projeto de cards de pokemón realizados durante a MapaDev Week.
+# Pokedex
+ Projeto de cards de pokemón com javascript
  <br>
- View: https://vmc13.github.io/POKEDEX_MapaDevWeek/
+ veja em: https://vmc13.github.io/pokedex-js/
